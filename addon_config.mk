@@ -5,4 +5,4 @@ meta:
 	ADDON_TAGS = "mime"
 	ADDON_URL = http://github.com/bakercp/ofxMediaType
 common:
-	ADDON_DEPENDENCIES = ofxPoco
+	ADDON_DEPENDENCIES = ofxPocoHeaders
