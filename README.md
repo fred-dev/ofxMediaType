@@ -1,6 +1,9 @@
 ofxMediaType
 ============
 
+> **About this fork:** fork of [bakercp/ofxMediaType](https://github.com/bakercp/ofxMediaType). This branch matches upstream. The `poco_headers_only` branch builds against [ofxPocoHeaders](https://github.com/fred-dev/ofxPocoHeaders) instead of the old ofxPoco addon.
+
+
 ## Description
 
 This is an addon that makes it easy to discover MIME types.  The basic implementation (contained in this addon) uses the Apache Mime Types definitions found [here](http://svn.apache.org/viewvc/httpd/httpd/trunk/docs/conf/mime.types?view=co).
